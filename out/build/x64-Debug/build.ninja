@@ -130,6 +130,15 @@ build CMakeFiles\vlcPlayer.dir\StyleApplication.cpp.obj: CXX_COMPILER__vlcPlayer
   TARGET_COMPILE_PDB = CMakeFiles\vlcPlayer.dir\
   TARGET_PDB = D:\res\repos\vlcPlayer\bin\vlcPlayer.pdb
 
+build CMakeFiles\vlcPlayer.dir\ExtraMenu.cpp.obj: CXX_COMPILER__vlcPlayer_unscanned_Debug D$:\res\repos\vlcPlayer\ExtraMenu.cpp || cmake_object_order_depends_target_vlcPlayer
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  INCLUDES = -ID:\res\repos\vlcPlayer\out\build\x64-Debug\vlcPlayer_autogen\include -ID:\res\repos\vlcPlayer\include -external:ID:\Qt\5.15.2\msvc2019_64\include -external:ID:\Qt\5.15.2\msvc2019_64\include\QtWidgets -external:ID:\Qt\5.15.2\msvc2019_64\include\QtGui -external:ID:\Qt\5.15.2\msvc2019_64\include\QtANGLE -external:ID:\Qt\5.15.2\msvc2019_64\include\QtCore -external:ID:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc -external:W0
+  OBJECT_DIR = CMakeFiles\vlcPlayer.dir
+  OBJECT_FILE_DIR = CMakeFiles\vlcPlayer.dir
+  TARGET_COMPILE_PDB = CMakeFiles\vlcPlayer.dir\
+  TARGET_PDB = D:\res\repos\vlcPlayer\bin\vlcPlayer.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target vlcPlayer
@@ -138,7 +147,7 @@ build CMakeFiles\vlcPlayer.dir\StyleApplication.cpp.obj: CXX_COMPILER__vlcPlayer
 #############################################
 # Link the executable D:\res\repos\vlcPlayer\bin\vlcPlayer.exe
 
-build D$:\res\repos\vlcPlayer\bin\vlcPlayer.exe: CXX_EXECUTABLE_LINKER__vlcPlayer_Debug CMakeFiles\vlcPlayer.dir\vlcPlayer_autogen\mocs_compilation.cpp.obj CMakeFiles\vlcPlayer.dir\main.cpp.obj CMakeFiles\vlcPlayer.dir\MainWindow.cpp.obj CMakeFiles\vlcPlayer.dir\VideoPlayWidget.cpp.obj CMakeFiles\vlcPlayer.dir\VlcInstance.cpp.obj CMakeFiles\vlcPlayer.dir\VlcMedia.cpp.obj CMakeFiles\vlcPlayer.dir\VlcMediaPlayer.cpp.obj CMakeFiles\vlcPlayer.dir\VideoControlWidget.cpp.obj CMakeFiles\vlcPlayer.dir\StyleApplication.cpp.obj | D$:\Qt\5.15.2\msvc2019_64\lib\Qt5Widgetsd.lib D$:\Qt\5.15.2\msvc2019_64\lib\Qt5Guid.lib D$:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.lib || vlcPlayer_autogen vlcPlayer_autogen_timestamp_deps
+build D$:\res\repos\vlcPlayer\bin\vlcPlayer.exe: CXX_EXECUTABLE_LINKER__vlcPlayer_Debug CMakeFiles\vlcPlayer.dir\vlcPlayer_autogen\mocs_compilation.cpp.obj CMakeFiles\vlcPlayer.dir\main.cpp.obj CMakeFiles\vlcPlayer.dir\MainWindow.cpp.obj CMakeFiles\vlcPlayer.dir\VideoPlayWidget.cpp.obj CMakeFiles\vlcPlayer.dir\VlcInstance.cpp.obj CMakeFiles\vlcPlayer.dir\VlcMedia.cpp.obj CMakeFiles\vlcPlayer.dir\VlcMediaPlayer.cpp.obj CMakeFiles\vlcPlayer.dir\VideoControlWidget.cpp.obj CMakeFiles\vlcPlayer.dir\StyleApplication.cpp.obj CMakeFiles\vlcPlayer.dir\ExtraMenu.cpp.obj | D$:\Qt\5.15.2\msvc2019_64\lib\Qt5Widgetsd.lib D$:\Qt\5.15.2\msvc2019_64\lib\Qt5Guid.lib D$:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.lib || vlcPlayer_autogen vlcPlayer_autogen_timestamp_deps
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = libvlc.lib  libvlccore.lib  D:\Qt\5.15.2\msvc2019_64\lib\Qt5Widgetsd.lib  D:\Qt\5.15.2\msvc2019_64\lib\Qt5Guid.lib  D:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

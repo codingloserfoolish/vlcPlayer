@@ -1,7 +1,7 @@
 #include<qapplication.h>
 #include"StyleApplication.h"
 #include"MainWindow.h"
-
+//#include"VideoPlayWidget.h"
 int main(int argc,char**argv)
 {
     StyleApplication app(argc,argv);

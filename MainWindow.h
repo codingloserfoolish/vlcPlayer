@@ -9,6 +9,9 @@ class MainWindow :public QMainWindow
 public:
 	MainWindow(QWidget* parent = nullptr);
 	void playtest(const QString& name);
+protected:
+	virtual bool event(QEvent* ev)override;
+
 private:
 	VideoPlayWidget* m_display_widget;
 	VlcMediaPlayer m_player;

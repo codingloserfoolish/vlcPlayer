@@ -3,6 +3,7 @@ D:/res/repos/vlcPlayer/out/build/x64-Debug/vlcPlayer_autogen/EWIEGA46WW/moc_Vide
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qarraydata.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qatomic.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbasicatomic.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbasictimer.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbytearray.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbytearraylist.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qchar.h \
@@ -51,6 +52,7 @@ D:/res/repos/vlcPlayer/out/build/x64-Debug/vlcPlayer_autogen/EWIEGA46WW/moc_Vide
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qsysinfo.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qsystemdetection.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qtcore-config.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtCore/qtimer.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qtypeinfo.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qvarlengtharray.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qvector.h \
@@ -77,16 +79,14 @@ D:/res/repos/vlcPlayer/out/build/x64-Debug/vlcPlayer_autogen/EWIEGA46WW/moc_Vide
   D:/Qt/5.15.2/msvc2019_64/include/QtGui/qtransform.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtGui/qwindowdefs.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
-  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qabstractslider.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
-  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qslider.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qwidget.h \
-  D:/res/repos/vlcPlayer/VideoControlWidget.h \
   D:/res/repos/vlcPlayer/VlcMedia.h \
   D:/res/repos/vlcPlayer/VlcMediaPlayer.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc.h \
+  D:/res/repos/vlcPlayer/include/vlc/libvlc_events.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc_media.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc_media_player.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc_renderer_discoverer.h

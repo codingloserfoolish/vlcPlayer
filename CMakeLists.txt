@@ -15,6 +15,7 @@ set(PROJECT_SOURCES
 "VlcMediaPlayer.h"
 "VideoControlWidget.h"
 "StyleApplication.h"
+"ExtraMenu.h"
 
 "MainWindow.cpp"  
 "VideoPlayWidget.cpp"
@@ -23,6 +24,7 @@ set(PROJECT_SOURCES
 "VlcMediaPlayer.cpp"
 "VideoControlWidget.cpp"
 "StyleApplication.cpp"
+"ExtraMenu.cpp"
 )
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)

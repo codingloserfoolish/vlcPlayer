@@ -21,6 +21,7 @@ D:/res/repos/vlcPlayer/out/build/x64-Debug/vlcPlayer_autogen/EWIEGA46WW/moc_Vide
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qline.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qlist.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qlogging.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtCore/qmap.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qmargins.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qmetatype.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qmutex.h \
@@ -77,8 +78,18 @@ D:/res/repos/vlcPlayer/out/build/x64-Debug/vlcPlayer_autogen/EWIEGA46WW/moc_Vide
   D:/Qt/5.15.2/msvc2019_64/include/QtGui/qwindowdefs.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qabstractslider.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qframe.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qlabel.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qslider.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \
-  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qwidget.h
+  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qwidget.h \
+  D:/res/repos/vlcPlayer/ExtraMenu.h \
+  D:/res/repos/vlcPlayer/VlcMedia.h \
+  D:/res/repos/vlcPlayer/VlcMediaPlayer.h \
+  D:/res/repos/vlcPlayer/include/vlc/libvlc.h \
+  D:/res/repos/vlcPlayer/include/vlc/libvlc_events.h \
+  D:/res/repos/vlcPlayer/include/vlc/libvlc_media.h \
+  D:/res/repos/vlcPlayer/include/vlc/libvlc_media_player.h \
+  D:/res/repos/vlcPlayer/include/vlc/libvlc_renderer_discoverer.h

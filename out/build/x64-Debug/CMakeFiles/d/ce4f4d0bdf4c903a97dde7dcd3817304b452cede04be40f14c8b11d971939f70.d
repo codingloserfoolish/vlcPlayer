@@ -24,6 +24,7 @@ vlcPlayer_autogen/timestamp: \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qarraydata.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qatomic.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbasicatomic.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbasictimer.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbytearray.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qbytearraylist.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qchar.h \
@@ -76,6 +77,7 @@ vlcPlayer_autogen/timestamp: \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qsysinfo.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qsystemdetection.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qtcore-config.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtCore/qtimer.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qtypeinfo.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qvariant.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtCore/qvarlengtharray.h \
@@ -107,6 +109,8 @@ vlcPlayer_autogen/timestamp: \
   D:/Qt/5.15.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qabstractslider.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qapplication.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qframe.h \
+  D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qlabel.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qslider.h \
   D:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
@@ -147,6 +151,8 @@ vlcPlayer_autogen/timestamp: \
   D:/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
   D:/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake \
   D:/res/repos/vlcPlayer/CMakeLists.txt \
+  D:/res/repos/vlcPlayer/ExtraMenu.cpp \
+  D:/res/repos/vlcPlayer/ExtraMenu.h \
   D:/res/repos/vlcPlayer/MainWindow.cpp \
   D:/res/repos/vlcPlayer/MainWindow.h \
   D:/res/repos/vlcPlayer/StyleApplication.cpp \
@@ -162,6 +168,7 @@ vlcPlayer_autogen/timestamp: \
   D:/res/repos/vlcPlayer/VlcMediaPlayer.cpp \
   D:/res/repos/vlcPlayer/VlcMediaPlayer.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc.h \
+  D:/res/repos/vlcPlayer/include/vlc/libvlc_events.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc_media.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc_media_player.h \
   D:/res/repos/vlcPlayer/include/vlc/libvlc_renderer_discoverer.h \

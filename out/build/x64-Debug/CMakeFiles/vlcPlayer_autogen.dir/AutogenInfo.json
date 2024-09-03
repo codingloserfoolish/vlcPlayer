@@ -78,6 +78,12 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/res/repos/vlcPlayer/ExtraMenu.h",
+			"MU",
+			"EWIEGA46WW/moc_ExtraMenu.cpp",
+			null
+		],
+		[
 			"D:/res/repos/vlcPlayer/MainWindow.h",
 			"MU",
 			"EWIEGA46WW/moc_MainWindow.cpp",
@@ -158,6 +164,7 @@
 	"SETTINGS_FILE" : "D:/res/repos/vlcPlayer/out/build/x64-Debug/CMakeFiles/vlcPlayer_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/res/repos/vlcPlayer/ExtraMenu.cpp", "MU", null ],
 		[ "D:/res/repos/vlcPlayer/MainWindow.cpp", "MU", null ],
 		[ "D:/res/repos/vlcPlayer/StyleApplication.cpp", "MU", null ],
 		[ "D:/res/repos/vlcPlayer/VideoControlWidget.cpp", "MU", null ],

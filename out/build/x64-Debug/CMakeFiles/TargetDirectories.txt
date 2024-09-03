@@ -1,0 +1,5 @@
+D:/res/repos/vlcPlayer/out/build/x64-Debug/CMakeFiles/vlcPlayer.dir
+D:/res/repos/vlcPlayer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/res/repos/vlcPlayer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/res/repos/vlcPlayer/out/build/x64-Debug/CMakeFiles/vlcPlayer_autogen_timestamp_deps.dir
+D:/res/repos/vlcPlayer/out/build/x64-Debug/CMakeFiles/vlcPlayer_autogen.dir
